@@ -1,0 +1,19 @@
+create db mydb  for database 
+ 
+
+
+
+
+Table userInfo
+CREATE TABLE userInfo( 
+userId int NOT NULL AUTO_INCREMENT,
+firstName varchar(255) NOT NULL,
+lastName varchar(255) NOT NULL,
+Email varchar(255), 
+pswd varchar(255),
+myBool boolean not null default 0, 
+UNIQUE(userId),
+primary key (Email));
+
+
+

@@ -1,0 +1,9 @@
+.my-textbox{
+    max-width:1000px;
+    margin:15px ;
+    border:2px solid #46474a;
+    padding:1rem;
+    font-family:sans-serif;
+    border-radius:10px;
+    opacity:0.7;
+  }
