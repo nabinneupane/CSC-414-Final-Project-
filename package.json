@@ -16,7 +16,7 @@
     "express-mysql-session": "^2.1.0",
     "express-session": "^1.17.0",
     "font-awesome": "^4.7.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "jquery": "^3.4.1",
     "material-ui": "^0.20.2",
     "mdbreact": "^4.22.1",
