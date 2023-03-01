@@ -27,7 +27,7 @@
     "nodemailer-sendgrid-transport": "^0.2.0",
     "nodemailer-smtp-transport": "^2.7.4",
     "nodemon": "^1.19.4",
-    "npm": "^6.13.1",
+    "npm": "^6.14.18",
     "randomstring": "^1.1.5",
     "react": "^16.10.2",
     "react-bootstrap": "^1.0.0-beta.14",
